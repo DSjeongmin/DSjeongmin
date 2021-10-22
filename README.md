@@ -1,7 +1,9 @@
+
+
 ### Language
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>,
-<img alt="MSSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?&style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>,
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+<img alt="MSSQL" src ="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?&style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/> 
 <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>
 
 ### Python Tool & Library
