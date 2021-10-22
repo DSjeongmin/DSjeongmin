@@ -14,8 +14,8 @@
 <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>,
 <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>,
 <img alt="SciPy" src ="https://img.shields.io/badge/SciPy-8CAAE6.svg?&style=for-the-badge&logo=SciPy&logoColor=white"/>,
-https://img.shields.io/badge/Matplotlib-blue,
-https://img.shields.io/badge/Seaborn-blue
+<img alt="Matplotlib" src ="https://img.shields.io/badge/Matplotlib-blue"/>,
+<img alt="Seaborn" src ="https://img.shields.io/badge/Seaborn-blue"/>
 
 
 <!--
