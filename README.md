@@ -1,5 +1,6 @@
 
-👋  Hi there! 
+👋  Hi there! I am working as a data scientist using Python 
+and I am interested in machine learning and deep learning.
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
